@@ -1,2 +1,5 @@
-# Bank-Loan-Dashboard
-I designed and developed the dashboard from raw loan data, focusing on loan status, customer demographics, and repayment behavior. It enables data-driven insights into loan management and risk evaluation.
+# Bank-Loan-Dashboard (using Power Bi)
+## Project Objective
+I built this interactive Power BI dashboard to analyze loan performance and customer trends. The goal was to help financial institutions identify patterns, assess risk, and monitor key metrics efficiently.
+
+## Dataset used
