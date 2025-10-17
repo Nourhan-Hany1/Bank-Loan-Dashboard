@@ -17,7 +17,7 @@ Established a 1:1 relationship between both datasets using Customer ID to ensure
 Performed data transformation and cleaning in Power Query to ensure consistency, remove nulls, and standardize numeric and date fields.
 
 ## Dashboard
-https://github.com/Nourhan-Hany1/Bank-Loan-Dashboard/blob/main/Photo%204.pdf 
+https://github.com/Nourhan-Hany1/Bank-Loan-Dashboard/blob/main/final%20dashboard.pdf
 
 ## ⚙️ Data Modeling & Calculations
 Developed multiple DAX measures to calculate key performance indicators, including:
