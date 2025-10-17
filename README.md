@@ -28,3 +28,17 @@ Good Loans: Current and Fully Paid
 Bad Loans: Charged Off
 
 Incorporated interactive slicers for State, Grade, Purpose, and Good vs. Bad Loans, enabling dynamic analysis and user-driven insights.
+
+## 📈 Analytical Insights
+The total funded amount reached $436M from 38.6K loan applications, with an average interest rate of 12.05% and DTI ratio of 13.3%.
+
+Approximately 86% of loans were classified as Good Loans, reflecting a strong overall portfolio performance.
+
+Debt Consolidation (47%) and Credit Card (13%) were the most common loan purposes.
+
+Short-term 36-month loans (73%) dominated the portfolio, indicating a conservative, low-risk lending strategy.
+
+Borrowers were predominantly employed for 10+ years and either renting or mortgaged homeowners, representing a stable income base.
+
+## Tools & Technologies
+Power BI | DAX | Power Query | Data Modeling | Data Cleaning | Interactive Dashboards | Data Visualization
