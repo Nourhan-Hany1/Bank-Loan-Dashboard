@@ -7,7 +7,11 @@ I built an interactive Power BI dashboard of the US bank to analyze loan perform
 
 ## 🧱 Data Model & Preparation
 The dataset was divided into two core tables:
+
 Customer Data: Included descriptive borrower information such as employment length, home ownership, loan grade, and loan purpose.
+
 Financial Data: Contained loan-specific metrics, including funded amount, received amount, interest rate, and DTI.
+
 Established a 1:1 relationship between both datasets using Customer ID to ensure precise data mapping and integrity.
+
 Performed data transformation and cleaning in Power Query to ensure consistency, remove nulls, and standardize numeric and date fields.
