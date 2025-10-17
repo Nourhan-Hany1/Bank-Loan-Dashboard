@@ -15,3 +15,16 @@ Financial Data: Contained loan-specific metrics, including funded amount, receiv
 Established a 1:1 relationship between both datasets using Customer ID to ensure precise data mapping and integrity.
 
 Performed data transformation and cleaning in Power Query to ensure consistency, remove nulls, and standardize numeric and date fields.
+
+## ⚙️ Data Modeling & Calculations
+Developed multiple DAX measures to calculate key performance indicators, including:
+
+Total Loan Applications, Total Funded Amount and Received Amount, Month-to-Date (MTD) and Month-over-Month (MOM) growth, Average Interest Rate and Average DTI, Good vs. Bad Loan Ratios
+
+Implemented a loan classification logic:
+
+Good Loans: Current and Fully Paid
+
+Bad Loans: Charged Off
+
+Incorporated interactive slicers for State, Grade, Purpose, and Good vs. Bad Loans, enabling dynamic analysis and user-driven insights.
